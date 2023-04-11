@@ -27,4 +27,4 @@ As funcionalidades do aplicativo são:
 - Remover uma tarefa;
 - Marcar e desmarcar uma tarefa como concluída.
 
-![ToDo](https://user-images.githubusercontent.com/70545003/231178854-028d17ef-d41b-45aa-b304-ebcb4e30acc6.gif)
+![ToDo](https://user-images.githubusercontent.com/70545003/231182331-e4f3b3ed-abe3-4e1d-b942-c8fb7796c98c.gif)
