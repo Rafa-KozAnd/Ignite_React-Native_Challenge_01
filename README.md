@@ -41,3 +41,5 @@ As funcionalidades do aplicativo são:
 - Edição de uma tarefa;
 - Exibir alerta pedindo confirmação ao remover uma tarefa;
 - Exibir alerta ao tentar adicionar tarefa com o mesmo nome.
+
+![ToDo2](https://user-images.githubusercontent.com/70545003/231196061-7b1b735e-7e3d-4221-bae5-dea942236091.gif)
