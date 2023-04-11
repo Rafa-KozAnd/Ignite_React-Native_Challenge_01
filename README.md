@@ -15,7 +15,8 @@
 
 React Native challenge done with 'Rocketseat' Ignite course. ("Desafio 01 - Conceitos do React Native & Adicionando edição e alertas")
 
-# 💻 Sobre o desafio
+# Desafio - Conceitos do React Native
+## 💻 Sobre o desafio
 
 Nesse desafio, você deverá criar uma aplicação para treinar o que aprendeu até agora no React Native.
 
@@ -28,3 +29,15 @@ As funcionalidades do aplicativo são:
 - Marcar e desmarcar uma tarefa como concluída.
 
 ![ToDo](https://user-images.githubusercontent.com/70545003/231182331-e4f3b3ed-abe3-4e1d-b942-c8fb7796c98c.gif)
+
+# Desafio - Adicionando edição e alertas
+## 💻 Sobre o desafio
+
+Nesse desafio, você deverá criar uma aplicação para treinar o que aprendeu até agora no React Native.
+
+Essa será uma continuação da aplicação de lembrete de tarefas desenvolvida no desafio anterior, onde você vai treinar um pouco mais sobre propriedades e componentização no React.
+As funcionalidades do aplicativo são:
+
+- Edição de uma tarefa;
+- Exibir alerta pedindo confirmação ao remover uma tarefa;
+- Exibir alerta ao tentar adicionar tarefa com o mesmo nome.
