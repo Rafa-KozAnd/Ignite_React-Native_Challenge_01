@@ -13,7 +13,7 @@
 
 # Ignite_React-Native_Challenge_01
 
-React Native challenge done with 'Rocketseat' Ignite course. ("Desafio 01 - Conceitos do React Native")
+React Native challenge done with 'Rocketseat' Ignite course. ("Desafio 01 - Conceitos do React Native & Adicionando edição e alertas")
 
 # 💻 Sobre o desafio
 
